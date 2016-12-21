@@ -1,0 +1,60 @@
+DAYS //format: day1|day2|day3, example: M|T|W|Th|F|Sa
+M|T|W|Th|F|Sa
+
+TIMES //format: start|end, example: 7:30a|9:30p
+7:30a|9:30p
+
+CLASSES //format: course|section|type|professor, example: 110|1|Lecture|Caterina Pentcheva
+110|1|Lecture|Caterina Pentcheva
+165|2|Lab|Robert Burns
+200|3|Hybrid|Cheryl Martucci
+210|4|Online|Gene Khaja
+255|5|Lecture|Heidi Kolen
+256|6|Lab|Gene Khaja
+257|7|Online|Gene Khaja
+260|8|Lecture|Robert Burns
+275|9|Hybrid|Caterina Pentcheva
+276|10|Lecture|Robert Burns
+277|11|Lecture|Gene Khaja
+110|12|Hybrid|Heidi Kolen
+165|13|Online|Caterina Pentcheva
+200|14|Lecture|Robert Burns
+210|15|Lecture|Gene Khaja
+255|16|Hybrid|Heidi Kolen
+256|17|Lecture|Robert Burns
+257|18|Lecture|Caterina Pentcheva
+260|19|Lecture|Heidi Kolen
+275|20|Lab|Caterina Pentcheva
+276|21|Lecture|Caterina Pentcheva
+277|22|Lecture|Caterina Pentcheva
+110|23|Lab|Caterina Pentcheva
+165|24|Lecture|Gene Khaja
+200|25|Online|Gene Khaja
+210|26|Lab|Gene Khaja
+255|27|Lecture|Heidi Kolen
+256|28|Lecture|Robert Burns
+257|29|Hybrid|Caterina Pentcheva
+260|30|Lab|Caterina Pentcheva
+275|31|Lecture|Caterina Pentcheva
+276|32|Lecture|Caterina Pentcheva
+277|33|Online|Gene Khaja
+
+COLORS //format: color, example: Red
+Red
+Blue
+Green
+Yellow
+Cyan
+Magenta
+
+ROOMS //format: room, example: ATC-109
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
